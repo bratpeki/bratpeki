@@ -1,16 +1,19 @@
-### Hi there 👋
+### Hello! Here's a bit about me!
 
-<!--
-**bratpeki/bratpeki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an 18 year old neet interested in fast and clever solutions to my own technological mishaps!
 
-Here are some ideas to get you started:
+Some tools and thingamajigs I use daily:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+- 💻 Manjaro Linux with KDE Plasma and DWM
+- ⌨️  Neovim w/ CoC for coding
+- 🎹 LMMS and Ardour for music production
+- 👾 Discord and Telegram for chatting
+
+I'm currently learning:
+
+- 📖 2D w/OpenGL
+- 📖 3D w/ Godot
+- 📖 C
+- 📖 Sound synthesis
+
+Let's solve some problems!
