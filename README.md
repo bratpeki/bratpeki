@@ -11,7 +11,7 @@ Some tools and thingamajigs I use daily:
 
 I'm currently learning:
 
-- 📖 2D w/OpenGL
+- 📖 2D w/ OpenGL
 - 📖 3D w/ Godot
 - 📖 C
 - 📖 Sound synthesis
