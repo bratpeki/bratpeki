@@ -1,0 +1,37 @@
+
+## I wanna hear something!
+
+I have a couple albums on [Bandcamp](https://xrtd.bandcamp.com/).
+You can find my tracker modules on [The Mod Archive](https://modarchive.org/index.php?request=view_profile&query=95079).
+I also have a [YouTube](https://www.youtube.com/@realxrtd).
+
+### Recommendations
+
+- ["8 bit sea shanty" (Just some classic chiptune)](https://modarchive.org/module.php?199503)
+- ["Pseudoutilitarianism" (Violins and choirs along a drum pattern)](https://xrtd.bandcamp.com/track/pseudoutilitarianism)
+- ["Reiteration" (Vocal chops, overlayed with some calm chords)](https://xrtd.bandcamp.com/track/reiteration)
+- ["jazzy!" (Self explanatory, LOL)](https://xrtd.bandcamp.com/track/jazzy)
+- ["osc!" (A basic oscillator and a fast drum pattern)](https://xrtd.bandcamp.com/track/osc)
+
+## How do you licence?
+
+[CC BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/3.0/).
+
+## What do you use?
+
+A lot of software. Most of it is listed under my [tools repo](https://github.com/bratpeki/tools).
+
+Mainly, however, I use **Ardour** and **MilkyTracker**.
+LMMS, ft2-clone and SchismTracker are also there on occasion.
+
+### Any plugins?
+
+A few.
+I'm a firm believer in the fact that one EQ that you *know* how to use beats 10 where you know all of them partially.
+
+I use:
+
+- ACE plugins that come with Ardour
+- Calf Studio Gear
+- ZynAddSubFx
+- x42-plugins
