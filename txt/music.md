@@ -1,6 +1,8 @@
 
 ## I wanna hear something!
 
+Sure! Be warned, I go by the name of `xrtd` whenever I make music, to keep things separate and clean. :)
+
 I have a couple albums on [Bandcamp](https://xrtd.bandcamp.com/).
 You can find my tracker modules on [The Mod Archive](https://modarchive.org/index.php?request=view_profile&query=95079).
 I also have a [YouTube](https://www.youtube.com/@realxrtd).

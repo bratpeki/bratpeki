@@ -1,5 +1,4 @@
-Hello, I'm Peki!
-I do AV and code.
+# Hello, I'm Peki! I do AV and code.
 
 You might have heard some of my tunes or seen my color schemes.
 
