@@ -1,5 +1,4 @@
 Here's a couple of places where you can contact me:
-
 | Type | Info |
 | - | - |
 | Discord | peki#6712 |
