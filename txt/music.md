@@ -2,11 +2,11 @@
 
 Sure! Be warned, I go by the name of `xrtd` whenever I make music, to keep things separate and clean. :)
 
-I have a couple albums on [Bandcamp](https://xrtd.bandcamp.com/).
-You can find my tracker modules, most of which are XM, on [The Mod Archive](https://modarchive.org/index.php?request=view_profile&query=95079).
+I have a couple albums on [Bandcamp](https://xrtd.bandcamp.com/).<br>
+You can find my tracker modules on [The Mod Archive](https://modarchive.org/index.php?request=view_profile&query=95079).<br>
 I also have a [YouTube](https://www.youtube.com/@realxrtd), where you can listen to some DJ sets.
 
-### Recommendations
+## Any recommendations?
 
 - ["8 bit sea shanty" (Just some classic chiptune)](https://modarchive.org/module.php?199503)
 - ["Pseudoutilitarianism" (Violins and choirs along a drum pattern)](https://xrtd.bandcamp.com/track/pseudoutilitarianism)
@@ -20,9 +20,8 @@ I also have a [YouTube](https://www.youtube.com/@realxrtd), where you can listen
 
 ## What do you use?
 
-A lot of software. Most of it is listed under my [tools repo](https://github.com/bratpeki/tools).
-
-Mainly, however, I use **Ardour** and **MilkyTracker**.
+A lot of software. Most of it is listed under my [tools repo](https://github.com/bratpeki/tools).<br>
+Mainly, however, I use **Ardour** and **MilkyTracker**.<br>
 LMMS, ft2-clone and SchismTracker are also there on occasion.
 
 ## Any plugins?
