@@ -1,11 +1,10 @@
-
 ## I wanna hear something!
 
 Sure! Be warned, I go by the name of `xrtd` whenever I make music, to keep things separate and clean. :)
 
 I have a couple albums on [Bandcamp](https://xrtd.bandcamp.com/).
-You can find my tracker modules on [The Mod Archive](https://modarchive.org/index.php?request=view_profile&query=95079).
-I also have a [YouTube](https://www.youtube.com/@realxrtd).
+You can find my tracker modules, most of which are XM, on [The Mod Archive](https://modarchive.org/index.php?request=view_profile&query=95079).
+I also have a [YouTube](https://www.youtube.com/@realxrtd), where you can listen to some DJ sets.
 
 ### Recommendations
 
@@ -13,7 +12,7 @@ I also have a [YouTube](https://www.youtube.com/@realxrtd).
 - ["Pseudoutilitarianism" (Violins and choirs along a drum pattern)](https://xrtd.bandcamp.com/track/pseudoutilitarianism)
 - ["Reiteration" (Vocal chops, overlayed with some calm chords)](https://xrtd.bandcamp.com/track/reiteration)
 - ["jazzy!" (Self explanatory, LOL)](https://xrtd.bandcamp.com/track/jazzy)
-- ["osc!" (A basic oscillator and a fast drum pattern)](https://xrtd.bandcamp.com/track/osc)
+- ["osc!" (Some basic oscillators and a fast drum pattern)](https://xrtd.bandcamp.com/track/osc)
 
 ## How do you licence?
 
@@ -26,7 +25,7 @@ A lot of software. Most of it is listed under my [tools repo](https://github.com
 Mainly, however, I use **Ardour** and **MilkyTracker**.
 LMMS, ft2-clone and SchismTracker are also there on occasion.
 
-### Any plugins?
+## Any plugins?
 
 A few.
 I'm a firm believer in the fact that one EQ that you *know* how to use beats 10 where you know all of them partially.
