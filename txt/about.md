@@ -1,8 +1,8 @@
 Hello!<br>
 I'm Petar, known by most as Peki.
 
-I'm a semi-artist, tracker musician, Linux h4x0r, open source enthusiast and
-in-good-part tech traditionalist that makes *"art"* using computers. :)
+I'm a tracker musician, Linux h4x0r, open source enthusiast and
+in-good-part tech traditionalist that makes *semi-art* using computers.
 
 I've been making electronic music since 2016 and have moved quite a bit,
 from FL's demo version to Abelton Live Lite all the way to the FOSS tools

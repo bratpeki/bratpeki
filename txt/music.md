@@ -8,7 +8,7 @@ I also have a [YouTube](https://www.youtube.com/@realxrtd), where you can listen
 
 ## Any recommendations?
 
-- ["8 bit sea shanty" (Just some classic chiptune)](https://modarchive.org/module.php?199503)
+- ["8 bit sea shanty" (Just some classic chiptune)](https://modarchive.org/module.php?199503)[^1]
 - ["Pseudoutilitarianism" (Violins and choirs along a drum pattern)](https://xrtd.bandcamp.com/track/pseudoutilitarianism)
 - ["Reiteration" (Vocal chops, overlayed with some calm chords)](https://xrtd.bandcamp.com/track/reiteration)
 - ["jazzy!" (Self explanatory, LOL)](https://xrtd.bandcamp.com/track/jazzy)
@@ -35,3 +35,5 @@ I use:
 - Calf Studio Gear
 - ZynAddSubFx
 - x42-plugins
+
+[^1]: In order to play tracker modules, TMA's modpage has a button titled "Play with Online Player"
