@@ -1,5 +1,4 @@
-Hello!<br>
-I'm Petar, known by most as Peki.
+## Hello! I'm Petar, known by most as Peki.
 
 I'm a
 
