@@ -29,9 +29,10 @@ LMMS, ft2-clone and SchismTracker are also there on occasion.
 A few.
 I'm a firm believer in the fact that one EQ that you *know* how to use beats 10 where you know all of them partially.
 
-I use:
+I *(mainly)* use:
 
 - ACE plugins that come with Ardour
+- AutoTalent and TalentedHack
 - Calf Studio Gear
 - ZynAddSubFx
 - x42-plugins
@@ -40,4 +41,6 @@ I use:
 
 1: In order to play tracker modules, TMA's modpage has a button titled "Play with Online Player".
 
-[>>> BACK](../README.md)
+---
+
+[>>> BACK](https://github.com/bratpeki)

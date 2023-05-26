@@ -23,4 +23,6 @@ I do photo editing using GIMP, videos using Kdenlive, games and
 interactive experiences using Godot as well as a whole slew of other
 hobbies I try to tend to!
 
-[>>> BACK](../README.md)
+---
+
+[>>> BACK](https://github.com/bratpeki)

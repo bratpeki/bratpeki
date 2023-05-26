@@ -6,4 +6,6 @@ Here's a couple of places where you can contact me:
 | Mail (music) | xrtdinquiries@gmail.com |
 | Mail (personal) | pkatic2003@gmail.com |
 
-[>>> BACK](../README.md)
+---
+
+[>>> BACK](https://github.com/bratpeki)
