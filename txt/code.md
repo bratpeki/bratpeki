@@ -19,7 +19,7 @@ There's also a few basic projects in C that might interest you, such as:
 
 Other **non-code** projects are:
 
-- [tools](https://github.com/bratpeki/tools), a collection of (mostly) open-source tools, such as trackers, DAWs, plugins, editors, etc.
+- [tools](https://github.com/bratpeki/tools), a list of (mostly) open-source tools, such as trackers, DAWs, plugins, editors, etc.
 - [A modern MilkyTracker guide](https://github.com/bratpeki/modern-milkytracker-guide), which aims to completely document MilkyTracker
 - [soundfonts](https://github.com/bratpeki/soundfonts), a collection of SF2 soundfonts for music production
 - [Build instructions](https://github.com/bratpeki/build_instruct) for some open-source programs I fancy
