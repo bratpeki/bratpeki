@@ -21,7 +21,7 @@ Other **non-code** projects are:
 
 - [tools](https://github.com/bratpeki/tools), a list of (mostly) open-source tools, such as trackers, DAWs, plugins, editors, etc.
 - [A modern MilkyTracker guide](https://github.com/bratpeki/modern-milkytracker-guide), which aims to completely document MilkyTracker
-- [soundfonts](https://github.com/bratpeki/soundfonts), a collection of SF2 soundfonts for music production
+- [soundfonts](https://github.com/bratpeki/soundfonts), a collection of SF2 files for music production
 - [Build instructions](https://github.com/bratpeki/build_instruct) for some open-source programs I fancy
 
 ---
