@@ -1,16 +1,16 @@
 ## Hello! I'm Petar, known by most as Peki.
 
-I'm a
+I'm an
 
-- Semi-artist
+- artist
 - DJ
-- Tracker musician
+- tracker musician
 - Linux h4x0r
-- Chess aficionado
-- Big fan of internet horror and the Slenderverse
-- Open source enthusiast
-- Sucker for good sound design
-- In-good-part tech traditionalist
+- chess aficionado
+- big fan of internet horror and the Slenderverse
+- open source enthusiast
+- sucker for good sound design
+- in-good-part tech traditionalist
 
 I've been making electronic music since 2016 and have moved quite a bit,
 from FL's demo version to Abelton Live Lite all the way to the FOSS tools
