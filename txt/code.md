@@ -17,6 +17,13 @@ There's also a few basic projects in C that might interest you, such as:
 - [grap.h](https://github.com/bratpeki/grap.h), a text-based graphing library
 - [SDL2 boilerplate](https://github.com/bratpeki/c-sdl2-boilerplate) for a GUI appliaction
 
+Other **non-code** projects are:
+
+- [tools](https://github.com/bratpeki/tools), a collection of (mostly) open-source tools, such as trackers, DAWs, plugins, editors, etc.
+- [A modern MilkyTracker guide](https://github.com/bratpeki/modern-milkytracker-guide), which aims to completely document MilkyTracker
+- [soundfonts](https://github.com/bratpeki/soundfonts), a collection of SF2 soundfonts for music production
+- [Build instructions](https://github.com/bratpeki/build_instruct) for some open-source programs I fancy
+
 ---
 
 [>>> BACK](https://github.com/bratpeki)
